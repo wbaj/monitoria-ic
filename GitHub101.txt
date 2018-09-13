@@ -1,0 +1,16 @@
+Passo a Passo(Ciclo Básico): 
+
+Fork no repositorio desejado
+
+GitBash here
+
+git clone <URL>  -> (URL do Site do repositório)
+Entra na pasta (cd Desktop ...) -> git status
+git add -> nomeDoArquivo (git add .) 
+gitstatus novamente
+git commit -m "(mensagem do commit, sintetiza as alterações)"
+git push origin master (envia minhas alterações pro repositório remoto, faz o login no github)
+
+Create Pull Request 
+
+PS: Shift + Insert = Ctrl + V
